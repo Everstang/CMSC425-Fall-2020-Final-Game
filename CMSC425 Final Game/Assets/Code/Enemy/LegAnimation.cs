@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyLegs : MonoBehaviour
+public class LegAnimation : MonoBehaviour
 {
     public float frequency = 1;
     public float degrees = 60;
